@@ -3,7 +3,7 @@ Hi 👋 I'm Ved Prakash Saraswat
 
 🚀 Backend Developer | Java Spring  | Automation | Microservices 📍India
 
-I am a passionate Software Engineering Student and Backend Developer dedicated to building clean, scalable, and high-performance server-side applications. I specialize in designing secure RESTful APIs and modernizing system architectures using Java ,Spring MVC , Core Java and Automation
+I am a passionate Software Engineering and Backend Developer dedicated to building clean, scalable, and high-performance server-side applications. I specialize in designing secure RESTful APIs and modernizing system architectures using Java ,Spring MVC , Core Java and Automation
 
 🧑‍💻 About Me
 🎓 Software Engineering Student (Focused on Enterprise Systems)
